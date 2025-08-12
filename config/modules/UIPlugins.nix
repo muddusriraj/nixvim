@@ -4,7 +4,7 @@
 
     vimtex = {
 	enable = true;
-	settings.view_method = "zathura";
+	settingsOptions.view_method = "zathura";
 	zathuraPackage = true;
     };
 
