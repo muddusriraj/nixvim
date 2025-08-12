@@ -1,5 +1,5 @@
 {
   plugins = {
-    texpresso.enable = true;
+    vimtex.enable = true;
   };
 }
