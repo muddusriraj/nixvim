@@ -7,8 +7,6 @@
 	settings.view_method = "zathura";
     };
 
-
-    
     neo-tree = {
       enable = true;
       enableGitStatus = true;
