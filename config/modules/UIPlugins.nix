@@ -9,9 +9,17 @@
 
 
     
-    nvim-tree = {
+    neo-tree = {
       enable = true;
-      extraOptions.openOnSetupFile = true;
+      enableGitStatus = true;
+      enableModifiedMarkers = true;
+      closeIfLastWindow = true;
+      popupBorderStyle = "rounded";
+      buffers = {
+	 followCurrentFile = {
+	   enabled = true;
+	 };
+      };
     };
 
     lualine.enable = true;
