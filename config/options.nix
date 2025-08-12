@@ -2,6 +2,6 @@
 {
   globalOpts = {
     number = true;
-    shiftwidth = 4;  
+    shiftwidth = 2;  
   };
 }

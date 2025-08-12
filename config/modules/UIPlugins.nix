@@ -20,6 +20,11 @@
       };
     };
 
+    illuminate = {
+	enable = true;
+	underCursor = false;
+    };
+
     lualine.enable = true;
     web-devicons.enable = true;
     dashboard.enable = true;
