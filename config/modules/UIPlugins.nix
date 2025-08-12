@@ -1,6 +1,8 @@
 {
   plugins = {
     bufferline.enable = true;
+
+    vimtex.enable=true;
     
     nvim-tree = {
       enable = true;
