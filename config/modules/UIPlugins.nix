@@ -4,15 +4,14 @@
 
     vimtex = {
 	enable = true;
-	settingsOptions.view_method = "zathura";
-	zathuraPackage = true;
+	settings.view_method = "zathura";
     };
 
 
     
     nvim-tree = {
       enable = true;
-      openOnSetupFile = true;
+      extraOptions.openOnSetupFile = true;
     };
 
     lualine.enable = true;

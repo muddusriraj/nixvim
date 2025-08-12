@@ -1,5 +1,7 @@
+{ self, ... }:
 {
-  opts = {
+  globalOpts = {
     number = true;
+    shiftwidth = 4;
   };
 }
