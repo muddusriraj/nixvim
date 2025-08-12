@@ -2,7 +2,12 @@
   plugins = {
     bufferline.enable = true;
 
-    vimtex.enable=true;
+    vimtex = {
+	enable = true;
+	zathura = true;
+    }
+
+
     
     nvim-tree = {
       enable = true;
