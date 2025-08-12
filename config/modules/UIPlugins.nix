@@ -5,7 +5,7 @@
     vimtex = {
 	enable = true;
 	zathura = true;
-    }
+    };
 
 
     
